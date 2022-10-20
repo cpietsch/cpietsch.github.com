@@ -1,7 +1,19 @@
 # hello world, this is christopher pietsch
 
 ## work
-
+### 2022
+- vikus docker
+- ai experiments
+- kreativpiloten microsite
+### 2021
+- zeit online
+- dataskop visualizations / views
+### 2020
+- a visual exploration of two museum collections
+- visuelle erkundung der aktivitäten der finanzlobby
+### 2019
+- schaufenster
+- layerage
 ### 2018
 - vikus viewer
 - zeit online
